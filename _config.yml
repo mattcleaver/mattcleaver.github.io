@@ -13,7 +13,7 @@ title:            Matt Cleaver
 tagline:          'Medieval to Modern Philosophy Notes'
 url:              http://mattcleaver.github.io/medieval
 shorturl:         mattcleaver.github.io/medieval
-baseurl:          'http://mattcleaver.github.io/medieval'
+baseurl:          /medieval
 
 author:
   name:           'Matt Cleaver'
