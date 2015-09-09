@@ -10,10 +10,9 @@ permalink:        pretty
 
 # Setup
 title:            Matt Cleaver
-tagline:          'Medieval to Modern Philosophy Notes'
-url:              http://mattcleaver.github.io/medieval
-shorturl:         mattcleaver.github.io/medieval
-baseurl:          /medieval
+tagline:          'Class Notes'
+url:              http://mattcleaver.github.io/
+shorturl:         mattcleaver.github.io/
 
 author:
   name:           'Matt Cleaver'
