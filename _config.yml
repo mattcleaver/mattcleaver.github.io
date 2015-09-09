@@ -11,12 +11,12 @@ permalink:        pretty
 # Setup
 title:            Matt Cleaver
 tagline:          'Medieval to Modern Philosophy Notes'
-url:              http://mattcleaver.github.io/medieval_to_modern_philosophy
-shorturl:         mattcleaver.github.io/medieval_to_modern_philosophy
+url:              http://mattcleaver.github.io/medieval
+shorturl:         mattcleaver.github.io/medieval
 
 author:
-  name:           'Joshua Lande'
-  url:            https://twitter.com/joshualande
+  name:           'Matt Cleaver'
+  url:            https://twitter.com/mattcleaver
 
 paginate:         1
 
@@ -24,7 +24,7 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           github.com/joshualande/joshualande.github.io
+  repo:           #github.com/joshualande/joshualande.github.io
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
