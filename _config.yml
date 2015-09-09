@@ -21,7 +21,7 @@ author:
 paginate:         1
 
 # Custom vars
-version:          1.0.0
+version:          1.0.1
 
 github:
   repo:           #github.com/joshualande/joshualande.github.io
