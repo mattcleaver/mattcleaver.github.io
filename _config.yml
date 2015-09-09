@@ -9,10 +9,10 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Joshua Lande
-tagline:          'Data Science, Apache Pig, Hadoop, Blogging, Tweets, Astrophysics'
-url:              http://www.joshualande.com
-shorturl:         joshualande.com
+title:            Matt Cleaver
+tagline:          'Medieval to Modern Philosophy Notes'
+url:              http://mattcleaver.github.io/medieval_to_modern_philosophy
+shorturl:         mattcleaver.github.io/medieval_to_modern_philosophy
 
 author:
   name:           'Joshua Lande'
